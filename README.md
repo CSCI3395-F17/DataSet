@@ -14,7 +14,7 @@ Questions
 I find this dataset interesting because I would like to see how baby names change over years. Many current names evolve from popular older names, and it would be interesting to see if that could be determined visually through this particular dataset.
 
 ### DATASET 2
-[Link](https://www.kaggle.com/kaggle/us-baby-names)
+[Link](https://www.kaggle.com/START-UMD/gtd)
 
 A dataset detailing global terrorist attacks from 1970 through 2016. Includes information like the date, location, weapon, target, etc.
 
